@@ -6,21 +6,22 @@ Disclaimer - This is a prototype and should be used only as basis for full produ
 
 How to use -
 
-Insert the folder hcsCheckerData (with the excel inside it) inside your Tekla Structures Model folder.
-Insert the profile files in profile catalog using Tekla Structures.
-Insert the rebar file in rebar catalog using Tekla Structures. (Might need a TS Restart)
-Insert test strand patterns from testStrandPatterns folder in model folder\attributes folder.
-Open the hcsCalculatorTeklaExcel.sln file using Visual Studio if you want to be able to eddit the code and run it with Visual Studio.
-Open the /hcsCalculatorTeklaExcel/bin/Debug/hcsCalculatorTeklaExcel.exe file to use the application as standalone (Works only with Tekla Structures 2020).
+1) Insert the folder hcsCheckerData (with the excel inside it) inside your Tekla Structures Model folder.
+2) Insert the profile files in profile catalog using Tekla Structures.
+3) Insert the rebar file in rebar catalog using Tekla Structures. (Might need a TS Restart)
+4) Insert test strand patterns from testStrandPatterns folder in model folder\attributes folder.
+5) Open the hcsCalculatorTeklaExcel.sln file using Visual Studio if you want to be able to eddit the code and run it with Visual Studio.
+6) Open the /hcsCalculatorTeklaExcel/bin/Debug/hcsCalculatorTeklaExcel.exe file to use the application as standalone (Works only with Tekla Structures 2020).
+
 Youtube link - TBC..
 
 Known limitations -
 
-*) HCS ends are straight (no angles) 
-*) HCS are matching global Z plane (no inclinations) 
-*) No strands in Tekla class 999999 
-*) Max One layer top reinfrocement strands (above HCS Height/2) 
-*) Max Two layers bottom reinforcement strands (below HCS Height/2)
+1) HCS ends are straight (no angles) 
+2) HCS are matching global Z plane (no inclinations) 
+3) No strands in Tekla class 999999 
+4) Max One layer top reinfrocement strands (above HCS Height/2) 
+5) Max Two layers bottom reinforcement strands (below HCS Height/2)
 
 Limitations are mostly to do with the Excel spread sheet quality and since it is meant as a place holder, there is no sensable reason to fix them up.
 
