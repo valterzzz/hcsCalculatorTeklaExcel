@@ -1,0 +1,17 @@
+PROFILE DATABASE EXPORT VERSION = 3
+
+TREE_RULES
+{
+    RULE_ITEM
+    {
+        PROFILE_TYPE  = "0 998";
+        NAME_FILTER  = "HCS*";
+        LABEL_STRING = "HCS";
+        MATERIAL_TYPES = "1";
+        USER_ATTRIBUTE_NAME  = "";
+        USER_ATTRIBUTE_VALUE  = "";
+        USER_ATTRIBUTE_TYPE = "0";
+        USER_ATTRIBUTE_CONDITION = "0";
+    };
+}
+

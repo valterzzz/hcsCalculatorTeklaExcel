@@ -1,0 +1,3408 @@
+PROFILE DATABASE EXPORT VERSION = 3
+
+PROFILE_NAME = "HCS200(200X1200)";
+{
+    TYPE = 998; SUB_TYPE = "UPB200"; COORDINATE = 0.000;
+    {
+        "HEIGHT"                            2.000000000E+02
+        "WIDTH"                             1.200000000E+03
+        "WEB_THICKNESS"                     0.000000000E+00
+        "FLANGE_THICKNESS"                  0.000000000E+00
+        "ROUNDING_RADIUS"                   0.000000000E+00
+        "HEIGHT_2"                          0.000000000E+00
+        "WIDTH_2"                           0.000000000E+00
+        "WEB_THICKNESS_2"                   0.000000000E+00
+        "FLANGE_THICKNESS_2"                0.000000000E+00
+        "ROUNDING_RADIUS_2"                 0.000000000E+00
+        "ECCENTRICITY_X"                    0.000000000E+00
+        "ECCENTRICITY_Y"                    0.000000000E+00
+        "FLANGE_SLOPE_RATIO"                0.000000000E+00
+        "EQUIVALENT_TYPE"                   0
+        "COVER_AREA"                        1.420732022E+01
+        "CROSS_SECTION_AREA"                1.299922000E+05
+        "MOMENT_OF_INERTIA_X"               0.000000000E+00
+        "MOMENT_OF_INERTIA_Y"               0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_ELASTIC_X"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_ELASTIC_Y"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_PLASTIC_X"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_PLASTIC_Y"   0.000000000E+00
+        "NORMALIZED_WARPING_CONSTANT"       0.000000000E+00
+        "PLASTIC_MODULUS_X"                 0.000000000E+00
+        "PLASTIC_MODULUS_Y"                 0.000000000E+00
+        "POLAR_RADIUS_OF_GYRATION"          0.000000000E+00
+        "RADIUS_OF_GYRATION_X"              0.000000000E+00
+        "RADIUS_OF_GYRATION_Y"              0.000000000E+00
+        "SECTION_MODULUS_X"                 0.000000000E+00
+        "SECTION_MODULUS_Y"                 0.000000000E+00
+        "SHEAR_CENTER_LOCATION"             0.000000000E+00
+        "SQRT_OF_E_x_Cw_PER_G_x_J"          0.000000000E+00
+        "STATICAL_MOMENT_Qf"                0.000000000E+00
+        "STATICAL_MOMENT_Qw"                0.000000000E+00
+        "TANGENT_OF_PRINCIPAL_AXIS_ANGLE"   0.000000000E+00
+        "TORSIONAL_CONSTANT"                0.000000000E+00
+        "WARPING_CONSTANT"                  0.000000000E+00
+        "WARPING_STATICAL_MOMENT"           0.000000000E+00
+        "WEIGHT_PER_UNIT_LENGTH"            3.120000000E+02
+        "PROFILE_SUBGROUP"                  ""
+        "HISTORICAL_PROFILE"                ""
+        "D2"                                0.000000000E+00
+        "DESIGN_GROUP"                      ""
+        "DESIGN_ORDER"                      0
+        "FACTORY_LIST"                      ""
+        "IS_RECOMMENDED_SIZE"               ""
+        "IS_STOCK_SIZE"                     ""
+        "MAX_TWIN_SEARCH_DIST"              0.000000000E+00
+        "METRIC_EQ_NAME"                    ""
+        "PROFILE_FACTORY"                   ""
+        "RAINA"                             0.000000000E+00
+        "RAINA_T"                           0.000000000E+00
+        "RLSD_C_I_C"                        ""
+        "RLSD_C_W"                          ""
+        "RLSD_DENS"                         ""
+        "RLSD_GAUGE"                        ""
+        "RLSD_MAX_SHTS"                     ""
+        "RLSD_M_SPEC"                       ""
+        "RLSD_PAINT"                        ""
+        "SAP_DESCRIPTION"                   ""
+        "D1"                                0.000000000E+00
+        "RLSD_YIELD"                        ""
+        "W3"                                0.000000000E+00
+        "W2"                                0.000000000E+00
+        "W1"                                0.000000000E+00
+        "HANDELSGEWICHT"                    0.000000000E+00
+        "CRH_CALC_WEIGHT"                   0.000000000E+00
+        "PREIS"                             0
+        "CRH_CONCRETE"                      ""
+        "NORM"                              ""
+        "CRH_ELEMENT_TYPE"                  ""
+        "CRH_PROFILE_TYPE"                  ""
+        "CRH_COMPANY"                       ""
+    }
+}
+
+PROFILE_NAME = "HCS220(220X1200)";
+{
+    TYPE = 998; SUB_TYPE = "UPB220"; COORDINATE = 0.000;
+    {
+        "HEIGHT"                            2.200000000E+02
+        "WIDTH"                             1.200000000E+03
+        "WEB_THICKNESS"                     0.000000000E+00
+        "FLANGE_THICKNESS"                  0.000000000E+00
+        "ROUNDING_RADIUS"                   0.000000000E+00
+        "HEIGHT_2"                          0.000000000E+00
+        "WIDTH_2"                           0.000000000E+00
+        "WEB_THICKNESS_2"                   0.000000000E+00
+        "FLANGE_THICKNESS_2"                0.000000000E+00
+        "ROUNDING_RADIUS_2"                 0.000000000E+00
+        "ECCENTRICITY_X"                    0.000000000E+00
+        "ECCENTRICITY_Y"                    0.000000000E+00
+        "FLANGE_SLOPE_RATIO"                0.000000000E+00
+        "EQUIVALENT_TYPE"                   0
+        "COVER_AREA"                        1.056372343E+01
+        "CROSS_SECTION_AREA"                1.500092000E+05
+        "MOMENT_OF_INERTIA_X"               0.000000000E+00
+        "MOMENT_OF_INERTIA_Y"               0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_ELASTIC_X"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_ELASTIC_Y"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_PLASTIC_X"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_PLASTIC_Y"   0.000000000E+00
+        "NORMALIZED_WARPING_CONSTANT"       0.000000000E+00
+        "PLASTIC_MODULUS_X"                 0.000000000E+00
+        "PLASTIC_MODULUS_Y"                 0.000000000E+00
+        "POLAR_RADIUS_OF_GYRATION"          0.000000000E+00
+        "RADIUS_OF_GYRATION_X"              0.000000000E+00
+        "RADIUS_OF_GYRATION_Y"              0.000000000E+00
+        "SECTION_MODULUS_X"                 0.000000000E+00
+        "SECTION_MODULUS_Y"                 0.000000000E+00
+        "SHEAR_CENTER_LOCATION"             0.000000000E+00
+        "SQRT_OF_E_x_Cw_PER_G_x_J"          0.000000000E+00
+        "STATICAL_MOMENT_Qf"                0.000000000E+00
+        "STATICAL_MOMENT_Qw"                0.000000000E+00
+        "TANGENT_OF_PRINCIPAL_AXIS_ANGLE"   0.000000000E+00
+        "TORSIONAL_CONSTANT"                0.000000000E+00
+        "WARPING_CONSTANT"                  0.000000000E+00
+        "WARPING_STATICAL_MOMENT"           0.000000000E+00
+        "WEIGHT_PER_UNIT_LENGTH"            3.600000000E+02
+        "PROFILE_SUBGROUP"                  ""
+        "HISTORICAL_PROFILE"                ""
+        "D2"                                0.000000000E+00
+        "DESIGN_GROUP"                      ""
+        "DESIGN_ORDER"                      0
+        "FACTORY_LIST"                      ""
+        "IS_RECOMMENDED_SIZE"               ""
+        "IS_STOCK_SIZE"                     ""
+        "MAX_TWIN_SEARCH_DIST"              0.000000000E+00
+        "METRIC_EQ_NAME"                    ""
+        "PROFILE_FACTORY"                   ""
+        "RAINA"                             0.000000000E+00
+        "RAINA_T"                           0.000000000E+00
+        "RLSD_C_I_C"                        ""
+        "RLSD_C_W"                          ""
+        "RLSD_DENS"                         ""
+        "RLSD_GAUGE"                        ""
+        "RLSD_MAX_SHTS"                     ""
+        "RLSD_M_SPEC"                       ""
+        "RLSD_PAINT"                        ""
+        "SAP_DESCRIPTION"                   ""
+        "D1"                                0.000000000E+00
+        "RLSD_YIELD"                        ""
+        "W3"                                0.000000000E+00
+        "W2"                                0.000000000E+00
+        "W1"                                0.000000000E+00
+        "HANDELSGEWICHT"                    0.000000000E+00
+        "CRH_CALC_WEIGHT"                   0.000000000E+00
+        "PREIS"                             0
+        "CRH_CONCRETE"                      ""
+        "NORM"                              ""
+        "CRH_ELEMENT_TYPE"                  ""
+        "CRH_PROFILE_TYPE"                  ""
+        "CRH_COMPANY"                       ""
+    }
+}
+
+PROFILE_NAME = "HCS265(265X1200)";
+{
+    TYPE = 998; SUB_TYPE = "UPB265"; COORDINATE = 0.000;
+    {
+        "HEIGHT"                            2.650000000E+02
+        "WIDTH"                             1.200000000E+03
+        "WEB_THICKNESS"                     0.000000000E+00
+        "FLANGE_THICKNESS"                  0.000000000E+00
+        "ROUNDING_RADIUS"                   0.000000000E+00
+        "HEIGHT_2"                          0.000000000E+00
+        "WIDTH_2"                           0.000000000E+00
+        "WEB_THICKNESS_2"                   0.000000000E+00
+        "FLANGE_THICKNESS_2"                0.000000000E+00
+        "ROUNDING_RADIUS_2"                 0.000000000E+00
+        "ECCENTRICITY_X"                    0.000000000E+00
+        "ECCENTRICITY_Y"                    0.000000000E+00
+        "FLANGE_SLOPE_RATIO"                0.000000000E+00
+        "EQUIVALENT_TYPE"                   0
+        "COVER_AREA"                        1.225882300E+01
+        "CROSS_SECTION_AREA"                1.675053000E+05
+        "MOMENT_OF_INERTIA_X"               0.000000000E+00
+        "MOMENT_OF_INERTIA_Y"               0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_ELASTIC_X"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_ELASTIC_Y"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_PLASTIC_X"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_PLASTIC_Y"   0.000000000E+00
+        "NORMALIZED_WARPING_CONSTANT"       0.000000000E+00
+        "PLASTIC_MODULUS_X"                 0.000000000E+00
+        "PLASTIC_MODULUS_Y"                 0.000000000E+00
+        "POLAR_RADIUS_OF_GYRATION"          0.000000000E+00
+        "RADIUS_OF_GYRATION_X"              0.000000000E+00
+        "RADIUS_OF_GYRATION_Y"              0.000000000E+00
+        "SECTION_MODULUS_X"                 0.000000000E+00
+        "SECTION_MODULUS_Y"                 0.000000000E+00
+        "SHEAR_CENTER_LOCATION"             0.000000000E+00
+        "SQRT_OF_E_x_Cw_PER_G_x_J"          0.000000000E+00
+        "STATICAL_MOMENT_Qf"                0.000000000E+00
+        "STATICAL_MOMENT_Qw"                0.000000000E+00
+        "TANGENT_OF_PRINCIPAL_AXIS_ANGLE"   0.000000000E+00
+        "TORSIONAL_CONSTANT"                0.000000000E+00
+        "WARPING_CONSTANT"                  0.000000000E+00
+        "WARPING_STATICAL_MOMENT"           0.000000000E+00
+        "WEIGHT_PER_UNIT_LENGTH"            4.020000000E+02
+        "PROFILE_SUBGROUP"                  ""
+        "HISTORICAL_PROFILE"                ""
+        "D2"                                0.000000000E+00
+        "DESIGN_GROUP"                      ""
+        "DESIGN_ORDER"                      0
+        "FACTORY_LIST"                      ""
+        "IS_RECOMMENDED_SIZE"               ""
+        "IS_STOCK_SIZE"                     ""
+        "MAX_TWIN_SEARCH_DIST"              0.000000000E+00
+        "METRIC_EQ_NAME"                    ""
+        "PROFILE_FACTORY"                   ""
+        "RAINA"                             0.000000000E+00
+        "RAINA_T"                           0.000000000E+00
+        "RLSD_C_I_C"                        ""
+        "RLSD_C_W"                          ""
+        "RLSD_DENS"                         ""
+        "RLSD_GAUGE"                        ""
+        "RLSD_MAX_SHTS"                     ""
+        "RLSD_M_SPEC"                       ""
+        "RLSD_PAINT"                        ""
+        "SAP_DESCRIPTION"                   ""
+        "D1"                                0.000000000E+00
+        "RLSD_YIELD"                        ""
+        "W3"                                0.000000000E+00
+        "W2"                                0.000000000E+00
+        "W1"                                0.000000000E+00
+        "HANDELSGEWICHT"                    0.000000000E+00
+        "CRH_CALC_WEIGHT"                   0.000000000E+00
+        "PREIS"                             0
+        "CRH_CONCRETE"                      ""
+        "NORM"                              ""
+        "CRH_ELEMENT_TYPE"                  ""
+        "CRH_PROFILE_TYPE"                  ""
+        "CRH_COMPANY"                       ""
+    }
+}
+
+PROFILE_NAME = "HCS320(320X1200)";
+{
+    TYPE = 998; SUB_TYPE = "UPB320"; COORDINATE = 0.000;
+    {
+        "HEIGHT"                            3.200000000E+02
+        "WIDTH"                             1.200000000E+03
+        "WEB_THICKNESS"                     0.000000000E+00
+        "FLANGE_THICKNESS"                  0.000000000E+00
+        "ROUNDING_RADIUS"                   0.000000000E+00
+        "HEIGHT_2"                          0.000000000E+00
+        "WIDTH_2"                           0.000000000E+00
+        "WEB_THICKNESS_2"                   0.000000000E+00
+        "FLANGE_THICKNESS_2"                0.000000000E+00
+        "ROUNDING_RADIUS_2"                 0.000000000E+00
+        "ECCENTRICITY_X"                    0.000000000E+00
+        "ECCENTRICITY_Y"                    0.000000000E+00
+        "FLANGE_SLOPE_RATIO"                0.000000000E+00
+        "EQUIVALENT_TYPE"                   0
+        "COVER_AREA"                        1.375434590E+01
+        "CROSS_SECTION_AREA"                1.925085000E+05
+        "MOMENT_OF_INERTIA_X"               0.000000000E+00
+        "MOMENT_OF_INERTIA_Y"               0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_ELASTIC_X"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_ELASTIC_Y"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_PLASTIC_X"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_PLASTIC_Y"   0.000000000E+00
+        "NORMALIZED_WARPING_CONSTANT"       0.000000000E+00
+        "PLASTIC_MODULUS_X"                 0.000000000E+00
+        "PLASTIC_MODULUS_Y"                 0.000000000E+00
+        "POLAR_RADIUS_OF_GYRATION"          0.000000000E+00
+        "RADIUS_OF_GYRATION_X"              0.000000000E+00
+        "RADIUS_OF_GYRATION_Y"              0.000000000E+00
+        "SECTION_MODULUS_X"                 0.000000000E+00
+        "SECTION_MODULUS_Y"                 0.000000000E+00
+        "SHEAR_CENTER_LOCATION"             0.000000000E+00
+        "SQRT_OF_E_x_Cw_PER_G_x_J"          0.000000000E+00
+        "STATICAL_MOMENT_Qf"                0.000000000E+00
+        "STATICAL_MOMENT_Qw"                0.000000000E+00
+        "TANGENT_OF_PRINCIPAL_AXIS_ANGLE"   0.000000000E+00
+        "TORSIONAL_CONSTANT"                0.000000000E+00
+        "WARPING_CONSTANT"                  0.000000000E+00
+        "WARPING_STATICAL_MOMENT"           0.000000000E+00
+        "WEIGHT_PER_UNIT_LENGTH"            4.620000000E+02
+        "PROFILE_SUBGROUP"                  ""
+        "HISTORICAL_PROFILE"                ""
+        "D2"                                0.000000000E+00
+        "DESIGN_GROUP"                      ""
+        "DESIGN_ORDER"                      0
+        "FACTORY_LIST"                      ""
+        "IS_RECOMMENDED_SIZE"               ""
+        "IS_STOCK_SIZE"                     ""
+        "MAX_TWIN_SEARCH_DIST"              0.000000000E+00
+        "METRIC_EQ_NAME"                    ""
+        "PROFILE_FACTORY"                   ""
+        "RAINA"                             0.000000000E+00
+        "RAINA_T"                           0.000000000E+00
+        "RLSD_C_I_C"                        ""
+        "RLSD_C_W"                          ""
+        "RLSD_DENS"                         ""
+        "RLSD_GAUGE"                        ""
+        "RLSD_MAX_SHTS"                     ""
+        "RLSD_M_SPEC"                       ""
+        "RLSD_PAINT"                        ""
+        "SAP_DESCRIPTION"                   ""
+        "D1"                                0.000000000E+00
+        "RLSD_YIELD"                        ""
+        "W3"                                0.000000000E+00
+        "W2"                                0.000000000E+00
+        "W1"                                0.000000000E+00
+        "HANDELSGEWICHT"                    0.000000000E+00
+        "CRH_CALC_WEIGHT"                   0.000000000E+00
+        "PREIS"                             0
+        "CRH_CONCRETE"                      ""
+        "NORM"                              ""
+        "CRH_ELEMENT_TYPE"                  ""
+        "CRH_PROFILE_TYPE"                  ""
+        "CRH_COMPANY"                       ""
+    }
+}
+
+PROFILE_NAME = "HCS380(380X1200)";
+{
+    TYPE = 998; SUB_TYPE = "UPB380"; COORDINATE = 0.000;
+    {
+        "HEIGHT"                            3.800000000E+02
+        "WIDTH"                             1.200000000E+03
+        "WEB_THICKNESS"                     0.000000000E+00
+        "FLANGE_THICKNESS"                  0.000000000E+00
+        "ROUNDING_RADIUS"                   0.000000000E+00
+        "HEIGHT_2"                          0.000000000E+00
+        "WIDTH_2"                           0.000000000E+00
+        "WEB_THICKNESS_2"                   0.000000000E+00
+        "FLANGE_THICKNESS_2"                0.000000000E+00
+        "ROUNDING_RADIUS_2"                 0.000000000E+00
+        "ECCENTRICITY_X"                    0.000000000E+00
+        "ECCENTRICITY_Y"                    0.000000000E+00
+        "FLANGE_SLOPE_RATIO"                0.000000000E+00
+        "EQUIVALENT_TYPE"                   0
+        "COVER_AREA"                        1.560429015E+01
+        "CROSS_SECTION_AREA"                2.241733000E+05
+        "MOMENT_OF_INERTIA_X"               0.000000000E+00
+        "MOMENT_OF_INERTIA_Y"               0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_ELASTIC_X"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_ELASTIC_Y"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_PLASTIC_X"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_PLASTIC_Y"   0.000000000E+00
+        "NORMALIZED_WARPING_CONSTANT"       0.000000000E+00
+        "PLASTIC_MODULUS_X"                 0.000000000E+00
+        "PLASTIC_MODULUS_Y"                 0.000000000E+00
+        "POLAR_RADIUS_OF_GYRATION"          0.000000000E+00
+        "RADIUS_OF_GYRATION_X"              0.000000000E+00
+        "RADIUS_OF_GYRATION_Y"              0.000000000E+00
+        "SECTION_MODULUS_X"                 0.000000000E+00
+        "SECTION_MODULUS_Y"                 0.000000000E+00
+        "SHEAR_CENTER_LOCATION"             0.000000000E+00
+        "SQRT_OF_E_x_Cw_PER_G_x_J"          0.000000000E+00
+        "STATICAL_MOMENT_Qf"                0.000000000E+00
+        "STATICAL_MOMENT_Qw"                0.000000000E+00
+        "TANGENT_OF_PRINCIPAL_AXIS_ANGLE"   0.000000000E+00
+        "TORSIONAL_CONSTANT"                0.000000000E+00
+        "WARPING_CONSTANT"                  0.000000000E+00
+        "WARPING_STATICAL_MOMENT"           0.000000000E+00
+        "WEIGHT_PER_UNIT_LENGTH"            5.380000000E+02
+        "PROFILE_SUBGROUP"                  ""
+        "HISTORICAL_PROFILE"                ""
+        "D2"                                0.000000000E+00
+        "DESIGN_GROUP"                      ""
+        "DESIGN_ORDER"                      0
+        "FACTORY_LIST"                      ""
+        "IS_RECOMMENDED_SIZE"               ""
+        "IS_STOCK_SIZE"                     ""
+        "MAX_TWIN_SEARCH_DIST"              0.000000000E+00
+        "METRIC_EQ_NAME"                    ""
+        "PROFILE_FACTORY"                   ""
+        "RAINA"                             0.000000000E+00
+        "RAINA_T"                           0.000000000E+00
+        "RLSD_C_I_C"                        ""
+        "RLSD_C_W"                          ""
+        "RLSD_DENS"                         ""
+        "RLSD_GAUGE"                        ""
+        "RLSD_MAX_SHTS"                     ""
+        "RLSD_M_SPEC"                       ""
+        "RLSD_PAINT"                        ""
+        "SAP_DESCRIPTION"                   ""
+        "D1"                                0.000000000E+00
+        "RLSD_YIELD"                        ""
+        "W3"                                0.000000000E+00
+        "W2"                                0.000000000E+00
+        "W1"                                0.000000000E+00
+        "HANDELSGEWICHT"                    0.000000000E+00
+        "CRH_CALC_WEIGHT"                   0.000000000E+00
+        "PREIS"                             0
+        "CRH_CONCRETE"                      ""
+        "NORM"                              ""
+        "CRH_ELEMENT_TYPE"                  ""
+        "CRH_PROFILE_TYPE"                  ""
+        "CRH_COMPANY"                       ""
+    }
+}
+
+PROFILE_NAME = "HCS400(400X1200)";
+{
+    TYPE = 998; SUB_TYPE = "UPB400"; COORDINATE = 0.000;
+    {
+        "HEIGHT"                            4.000000000E+02
+        "WIDTH"                             1.200000000E+03
+        "WEB_THICKNESS"                     0.000000000E+00
+        "FLANGE_THICKNESS"                  0.000000000E+00
+        "ROUNDING_RADIUS"                   0.000000000E+00
+        "HEIGHT_2"                          0.000000000E+00
+        "WIDTH_2"                           0.000000000E+00
+        "WEB_THICKNESS_2"                   0.000000000E+00
+        "FLANGE_THICKNESS_2"                0.000000000E+00
+        "ROUNDING_RADIUS_2"                 0.000000000E+00
+        "ECCENTRICITY_X"                    0.000000000E+00
+        "ECCENTRICITY_Y"                    0.000000000E+00
+        "FLANGE_SLOPE_RATIO"                0.000000000E+00
+        "EQUIVALENT_TYPE"                   0
+        "COVER_AREA"                        1.739451382E+01
+        "CROSS_SECTION_AREA"                2.250048000E+05
+        "MOMENT_OF_INERTIA_X"               0.000000000E+00
+        "MOMENT_OF_INERTIA_Y"               0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_ELASTIC_X"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_ELASTIC_Y"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_PLASTIC_X"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_PLASTIC_Y"   0.000000000E+00
+        "NORMALIZED_WARPING_CONSTANT"       0.000000000E+00
+        "PLASTIC_MODULUS_X"                 0.000000000E+00
+        "PLASTIC_MODULUS_Y"                 0.000000000E+00
+        "POLAR_RADIUS_OF_GYRATION"          0.000000000E+00
+        "RADIUS_OF_GYRATION_X"              0.000000000E+00
+        "RADIUS_OF_GYRATION_Y"              0.000000000E+00
+        "SECTION_MODULUS_X"                 0.000000000E+00
+        "SECTION_MODULUS_Y"                 0.000000000E+00
+        "SHEAR_CENTER_LOCATION"             0.000000000E+00
+        "SQRT_OF_E_x_Cw_PER_G_x_J"          0.000000000E+00
+        "STATICAL_MOMENT_Qf"                0.000000000E+00
+        "STATICAL_MOMENT_Qw"                0.000000000E+00
+        "TANGENT_OF_PRINCIPAL_AXIS_ANGLE"   0.000000000E+00
+        "TORSIONAL_CONSTANT"                0.000000000E+00
+        "WARPING_CONSTANT"                  0.000000000E+00
+        "WARPING_STATICAL_MOMENT"           0.000000000E+00
+        "WEIGHT_PER_UNIT_LENGTH"            5.400000000E+02
+        "PROFILE_SUBGROUP"                  ""
+        "HISTORICAL_PROFILE"                ""
+        "D2"                                0.000000000E+00
+        "DESIGN_GROUP"                      ""
+        "DESIGN_ORDER"                      0
+        "FACTORY_LIST"                      ""
+        "IS_RECOMMENDED_SIZE"               ""
+        "IS_STOCK_SIZE"                     ""
+        "MAX_TWIN_SEARCH_DIST"              0.000000000E+00
+        "METRIC_EQ_NAME"                    ""
+        "PROFILE_FACTORY"                   ""
+        "RAINA"                             0.000000000E+00
+        "RAINA_T"                           0.000000000E+00
+        "RLSD_C_I_C"                        ""
+        "RLSD_C_W"                          ""
+        "RLSD_DENS"                         ""
+        "RLSD_GAUGE"                        ""
+        "RLSD_MAX_SHTS"                     ""
+        "RLSD_M_SPEC"                       ""
+        "RLSD_PAINT"                        ""
+        "SAP_DESCRIPTION"                   ""
+        "D1"                                0.000000000E+00
+        "RLSD_YIELD"                        ""
+        "W3"                                0.000000000E+00
+        "W2"                                0.000000000E+00
+        "W1"                                0.000000000E+00
+        "HANDELSGEWICHT"                    0.000000000E+00
+        "CRH_CALC_WEIGHT"                   0.000000000E+00
+        "PREIS"                             0
+        "CRH_CONCRETE"                      ""
+        "NORM"                              ""
+        "CRH_ELEMENT_TYPE"                  ""
+        "CRH_PROFILE_TYPE"                  ""
+        "CRH_COMPANY"                       ""
+    }
+}
+
+PROFILE_NAME = "HCS500(500X1200)";
+{
+    TYPE = 998; SUB_TYPE = "UPB500"; COORDINATE = 0.000;
+    {
+        "HEIGHT"                            5.000000000E+02
+        "WIDTH"                             1.200000000E+03
+        "WEB_THICKNESS"                     0.000000000E+00
+        "FLANGE_THICKNESS"                  0.000000000E+00
+        "ROUNDING_RADIUS"                   0.000000000E+00
+        "HEIGHT_2"                          0.000000000E+00
+        "WIDTH_2"                           0.000000000E+00
+        "WEB_THICKNESS_2"                   0.000000000E+00
+        "FLANGE_THICKNESS_2"                0.000000000E+00
+        "ROUNDING_RADIUS_2"                 0.000000000E+00
+        "ECCENTRICITY_X"                    0.000000000E+00
+        "ECCENTRICITY_Y"                    0.000000000E+00
+        "FLANGE_SLOPE_RATIO"                0.000000000E+00
+        "EQUIVALENT_TYPE"                   0
+        "COVER_AREA"                        1.896635173E+01
+        "CROSS_SECTION_AREA"                3.325242000E+05
+        "MOMENT_OF_INERTIA_X"               0.000000000E+00
+        "MOMENT_OF_INERTIA_Y"               0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_ELASTIC_X"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_ELASTIC_Y"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_PLASTIC_X"   0.000000000E+00
+        "NEUTRAL_AXIS_LOCATION_PLASTIC_Y"   0.000000000E+00
+        "NORMALIZED_WARPING_CONSTANT"       0.000000000E+00
+        "PLASTIC_MODULUS_X"                 0.000000000E+00
+        "PLASTIC_MODULUS_Y"                 0.000000000E+00
+        "POLAR_RADIUS_OF_GYRATION"          0.000000000E+00
+        "RADIUS_OF_GYRATION_X"              0.000000000E+00
+        "RADIUS_OF_GYRATION_Y"              0.000000000E+00
+        "SECTION_MODULUS_X"                 0.000000000E+00
+        "SECTION_MODULUS_Y"                 0.000000000E+00
+        "SHEAR_CENTER_LOCATION"             0.000000000E+00
+        "SQRT_OF_E_x_Cw_PER_G_x_J"          0.000000000E+00
+        "STATICAL_MOMENT_Qf"                0.000000000E+00
+        "STATICAL_MOMENT_Qw"                0.000000000E+00
+        "TANGENT_OF_PRINCIPAL_AXIS_ANGLE"   0.000000000E+00
+        "TORSIONAL_CONSTANT"                0.000000000E+00
+        "WARPING_CONSTANT"                  0.000000000E+00
+        "WARPING_STATICAL_MOMENT"           0.000000000E+00
+        "WEIGHT_PER_UNIT_LENGTH"            7.980000000E+02
+        "PROFILE_SUBGROUP"                  ""
+        "HISTORICAL_PROFILE"                ""
+        "D2"                                0.000000000E+00
+        "DESIGN_GROUP"                      ""
+        "DESIGN_ORDER"                      0
+        "FACTORY_LIST"                      ""
+        "IS_RECOMMENDED_SIZE"               ""
+        "IS_STOCK_SIZE"                     ""
+        "MAX_TWIN_SEARCH_DIST"              0.000000000E+00
+        "METRIC_EQ_NAME"                    ""
+        "PROFILE_FACTORY"                   ""
+        "RAINA"                             0.000000000E+00
+        "RAINA_T"                           0.000000000E+00
+        "RLSD_C_I_C"                        ""
+        "RLSD_C_W"                          ""
+        "RLSD_DENS"                         ""
+        "RLSD_GAUGE"                        ""
+        "RLSD_MAX_SHTS"                     ""
+        "RLSD_M_SPEC"                       ""
+        "RLSD_PAINT"                        ""
+        "SAP_DESCRIPTION"                   ""
+        "D1"                                0.000000000E+00
+        "RLSD_YIELD"                        ""
+        "W3"                                0.000000000E+00
+        "W2"                                0.000000000E+00
+        "W1"                                0.000000000E+00
+        "HANDELSGEWICHT"                    0.000000000E+00
+        "CRH_CALC_WEIGHT"                   0.000000000E+00
+        "PREIS"                             0
+        "CRH_CONCRETE"                      ""
+        "NORM"                              ""
+        "CRH_ELEMENT_TYPE"                  ""
+        "CRH_PROFILE_TYPE"                  ""
+        "CRH_COMPANY"                       ""
+    }
+}
+
+CROSS_SECTION_NAME = "UPB500";
+{
+    POINT_NUMBER = 1;
+    {
+        POINT_X      =  592.00;
+        POINT_Y      = -222.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2;
+    {
+        POINT_X      =  582.66;
+        POINT_Y      =  162.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3;
+    {
+        POINT_X      =  574.66;
+        POINT_Y      =  170.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4;
+    {
+        POINT_X      =  572.37;
+        POINT_Y      =  204.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5;
+    {
+        POINT_X      =  580.37;
+        POINT_Y      =  212.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 6;
+    {
+        POINT_X      =  579.00;
+        POINT_Y      =  242.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 7;
+    {
+        POINT_X      =  571.00;
+        POINT_Y      =  250.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 8;
+    {
+        POINT_X      = -571.00;
+        POINT_Y      =  250.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 9;
+    {
+        POINT_X      = -579.00;
+        POINT_Y      =  242.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 10;
+    {
+        POINT_X      = -580.37;
+        POINT_Y      =  212.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 11;
+    {
+        POINT_X      = -572.37;
+        POINT_Y      =  204.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 12;
+    {
+        POINT_X      = -574.66;
+        POINT_Y      =  170.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 13;
+    {
+        POINT_X      = -582.66;
+        POINT_Y      =  162.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 14;
+    {
+        POINT_X      = -592.00;
+        POINT_Y      = -222.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 15;
+    {
+        POINT_X      = -600.00;
+        POINT_Y      = -222.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 16;
+    {
+        POINT_X      = -600.00;
+        POINT_Y      = -242.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 17;
+    {
+        POINT_X      = -592.00;
+        POINT_Y      = -250.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 18;
+    {
+        POINT_X      =  592.00;
+        POINT_Y      = -250.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 19;
+    {
+        POINT_X      =  600.00;
+        POINT_Y      = -242.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 20;
+    {
+        POINT_X      =  600.00;
+        POINT_Y      = -222.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1001;
+    {
+        POINT_X      =  510.00;
+        POINT_Y      = -117.45;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1002;
+    {
+        POINT_X      =  453.81;
+        POINT_Y      = -200.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   25.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1003;
+    {
+        POINT_X      =  393.02;
+        POINT_Y      = -200.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   31.50;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1004;
+    {
+        POINT_X      =  340.94;
+        POINT_Y      = -121.54;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1005;
+    {
+        POINT_X      =  321.06;
+        POINT_Y      =  -17.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1006;
+    {
+        POINT_X      =  321.06;
+        POINT_Y      =  112.93;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1007;
+    {
+        POINT_X      =  420.36;
+        POINT_Y      =  185.00;
+        CHAMFER_TYPE =      40;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1008;
+    {
+        POINT_X      =  468.02;
+        POINT_Y      =  177.13;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1009;
+    {
+        POINT_X      =  510.00;
+        POINT_Y      =   89.11;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2001;
+    {
+        POINT_X      =  243.06;
+        POINT_Y      =  -35.06;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2002;
+    {
+        POINT_X      =  224.09;
+        POINT_Y      = -121.91;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2003;
+    {
+        POINT_X      =  170.97;
+        POINT_Y      = -200.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   25.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2004;
+    {
+        POINT_X      =  111.09;
+        POINT_Y      = -200.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   25.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2005;
+    {
+        POINT_X      =   57.89;
+        POINT_Y      = -120.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2006;
+    {
+        POINT_X      =   39.00;
+        POINT_Y      =  -35.06;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2007;
+    {
+        POINT_X      =   39.00;
+        POINT_Y      =  113.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2008;
+    {
+        POINT_X      =   84.02;
+        POINT_Y      =  185.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =  102.83;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2009;
+    {
+        POINT_X      =  198.04;
+        POINT_Y      =  185.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =  102.83;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2010;
+    {
+        POINT_X      =  243.06;
+        POINT_Y      =  113.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3001;
+    {
+        POINT_X      =  -39.00;
+        POINT_Y      =  -35.06;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3002;
+    {
+        POINT_X      =  -57.89;
+        POINT_Y      = -121.39;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3003;
+    {
+        POINT_X      = -111.09;
+        POINT_Y      = -200.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   25.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3004;
+    {
+        POINT_X      = -170.97;
+        POINT_Y      = -200.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   25.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3005;
+    {
+        POINT_X      = -224.09;
+        POINT_Y      = -120.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3006;
+    {
+        POINT_X      = -243.06;
+        POINT_Y      =  -35.07;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3007;
+    {
+        POINT_X      = -243.06;
+        POINT_Y      =  113.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3008;
+    {
+        POINT_X      = -198.04;
+        POINT_Y      =  185.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =  102.83;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3009;
+    {
+        POINT_X      =  -84.02;
+        POINT_Y      =  185.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =  102.83;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3010;
+    {
+        POINT_X      =  -39.00;
+        POINT_Y      =  113.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4001;
+    {
+        POINT_X      = -321.06;
+        POINT_Y      =  -17.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4002;
+    {
+        POINT_X      = -340.94;
+        POINT_Y      = -121.54;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4003;
+    {
+        POINT_X      = -393.02;
+        POINT_Y      = -200.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   31.50;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4004;
+    {
+        POINT_X      = -453.81;
+        POINT_Y      = -200.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   25.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4005;
+    {
+        POINT_X      = -510.00;
+        POINT_Y      = -117.45;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4006;
+    {
+        POINT_X      = -510.00;
+        POINT_Y      =   89.11;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4007;
+    {
+        POINT_X      = -468.02;
+        POINT_Y      =  177.13;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4008;
+    {
+        POINT_X      = -420.36;
+        POINT_Y      =  185.00;
+        CHAMFER_TYPE =      40;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4009;
+    {
+        POINT_X      = -321.06;
+        POINT_Y      =  112.93;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+};
+
+CROSS_SECTION_NAME = "UPB400";
+{
+    POINT_NUMBER = 1;
+    {
+        POINT_X      =  592.00;
+        POINT_Y      = -172.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2;
+    {
+        POINT_X      =  583.03;
+        POINT_Y      =  104.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3;
+    {
+        POINT_X      =  575.03;
+        POINT_Y      =  112.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4;
+    {
+        POINT_X      =  572.74;
+        POINT_Y      =  146.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5;
+    {
+        POINT_X      =  580.74;
+        POINT_Y      =  154.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 6;
+    {
+        POINT_X      =  579.00;
+        POINT_Y      =  192.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 7;
+    {
+        POINT_X      =  571.00;
+        POINT_Y      =  200.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 8;
+    {
+        POINT_X      = -571.00;
+        POINT_Y      =  200.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 9;
+    {
+        POINT_X      = -579.00;
+        POINT_Y      =  192.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 10;
+    {
+        POINT_X      = -580.74;
+        POINT_Y      =  154.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 11;
+    {
+        POINT_X      = -572.74;
+        POINT_Y      =  146.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 12;
+    {
+        POINT_X      = -575.03;
+        POINT_Y      =  112.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 13;
+    {
+        POINT_X      = -583.03;
+        POINT_Y      =  104.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 14;
+    {
+        POINT_X      = -592.00;
+        POINT_Y      = -172.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 15;
+    {
+        POINT_X      = -600.00;
+        POINT_Y      = -172.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 16;
+    {
+        POINT_X      = -600.00;
+        POINT_Y      = -192.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 17;
+    {
+        POINT_X      = -592.00;
+        POINT_Y      = -200.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 18;
+    {
+        POINT_X      =  592.00;
+        POINT_Y      = -200.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 19;
+    {
+        POINT_X      =  600.00;
+        POINT_Y      = -192.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 20;
+    {
+        POINT_X      =  600.00;
+        POINT_Y      = -172.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1001;
+    {
+        POINT_X      =  536.00;
+        POINT_Y      = -165.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   94.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1002;
+    {
+        POINT_X      =  320.50;
+        POINT_Y      = -165.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   94.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1003;
+    {
+        POINT_X      =  320.50;
+        POINT_Y      =   92.09;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1004;
+    {
+        POINT_X      =  426.00;
+        POINT_Y      =  166.10;
+        CHAMFER_TYPE =      40;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1005;
+    {
+        POINT_X      =  490.52;
+        POINT_Y      =  146.19;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1006;
+    {
+        POINT_X      =  536.00;
+        POINT_Y      =   67.43;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2001;
+    {
+        POINT_X      =  245.50;
+        POINT_Y      = -164.46;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   94.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2002;
+    {
+        POINT_X      =   37.50;
+        POINT_Y      = -164.46;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   94.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2003;
+    {
+        POINT_X      =   37.50;
+        POINT_Y      =  165.05;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   94.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2004;
+    {
+        POINT_X      =  245.50;
+        POINT_Y      =  165.05;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   94.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3001;
+    {
+        POINT_X      =  -37.50;
+        POINT_Y      = -164.46;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   94.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3002;
+    {
+        POINT_X      = -245.50;
+        POINT_Y      = -164.46;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   94.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3003;
+    {
+        POINT_X      = -245.50;
+        POINT_Y      =  165.05;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   94.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3004;
+    {
+        POINT_X      =  -37.50;
+        POINT_Y      =  165.05;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   94.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4001;
+    {
+        POINT_X      = -320.50;
+        POINT_Y      = -165.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   94.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4002;
+    {
+        POINT_X      = -536.00;
+        POINT_Y      = -165.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   94.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4003;
+    {
+        POINT_X      = -536.00;
+        POINT_Y      =   67.43;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4004;
+    {
+        POINT_X      = -490.52;
+        POINT_Y      =  146.19;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4005;
+    {
+        POINT_X      = -426.00;
+        POINT_Y      =  166.10;
+        CHAMFER_TYPE =      40;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4006;
+    {
+        POINT_X      = -320.50;
+        POINT_Y      =   92.09;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+};
+
+CROSS_SECTION_NAME = "UPB380";
+{
+    POINT_NUMBER = 1;
+    {
+        POINT_X      =  592.00;
+        POINT_Y      = -162.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2;
+    {
+        POINT_X      =  583.03;
+        POINT_Y      =  102.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3;
+    {
+        POINT_X      =  575.03;
+        POINT_Y      =  110.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4;
+    {
+        POINT_X      =  572.74;
+        POINT_Y      =  144.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5;
+    {
+        POINT_X      =  580.74;
+        POINT_Y      =  152.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 6;
+    {
+        POINT_X      =  579.00;
+        POINT_Y      =  182.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 7;
+    {
+        POINT_X      =  571.00;
+        POINT_Y      =  190.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 8;
+    {
+        POINT_X      = -571.00;
+        POINT_Y      =  190.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 9;
+    {
+        POINT_X      = -579.00;
+        POINT_Y      =  182.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 10;
+    {
+        POINT_X      = -580.74;
+        POINT_Y      =  152.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 11;
+    {
+        POINT_X      = -572.74;
+        POINT_Y      =  144.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 12;
+    {
+        POINT_X      = -575.03;
+        POINT_Y      =  110.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 13;
+    {
+        POINT_X      = -583.03;
+        POINT_Y      =  102.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 14;
+    {
+        POINT_X      = -592.00;
+        POINT_Y      = -162.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 15;
+    {
+        POINT_X      = -600.00;
+        POINT_Y      = -162.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 16;
+    {
+        POINT_X      = -600.00;
+        POINT_Y      = -182.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 17;
+    {
+        POINT_X      = -592.00;
+        POINT_Y      = -190.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 18;
+    {
+        POINT_X      =  592.00;
+        POINT_Y      = -190.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 19;
+    {
+        POINT_X      =  600.00;
+        POINT_Y      = -182.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 20;
+    {
+        POINT_X      =  600.00;
+        POINT_Y      = -162.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1001;
+    {
+        POINT_X      =  528.50;
+        POINT_Y      = -150.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   84.20;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1002;
+    {
+        POINT_X      =  318.00;
+        POINT_Y      = -150.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   84.20;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1003;
+    {
+        POINT_X      =  318.00;
+        POINT_Y      =   92.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1004;
+    {
+        POINT_X      =  429.75;
+        POINT_Y      =  143.24;
+        CHAMFER_TYPE =      40;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1005;
+    {
+        POINT_X      =  495.78;
+        POINT_Y      =  125.96;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1006;
+    {
+        POINT_X      =  528.50;
+        POINT_Y      =   63.43;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2001;
+    {
+        POINT_X      =  248.00;
+        POINT_Y      = -150.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   84.20;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2002;
+    {
+        POINT_X      =   35.00;
+        POINT_Y      = -150.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   84.20;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2003;
+    {
+        POINT_X      =   35.00;
+        POINT_Y      =   92.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2004;
+    {
+        POINT_X      =   89.89;
+        POINT_Y      =  143.14;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =  106.50;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2005;
+    {
+        POINT_X      =  193.11;
+        POINT_Y      =  143.14;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =  106.50;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2006;
+    {
+        POINT_X      =  248.00;
+        POINT_Y      =   92.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3001;
+    {
+        POINT_X      =  -35.00;
+        POINT_Y      = -150.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   84.20;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3002;
+    {
+        POINT_X      = -248.00;
+        POINT_Y      = -150.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   84.20;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3003;
+    {
+        POINT_X      = -248.00;
+        POINT_Y      =   92.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3004;
+    {
+        POINT_X      = -193.11;
+        POINT_Y      =  143.14;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =  106.50;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3005;
+    {
+        POINT_X      =  -89.89;
+        POINT_Y      =  143.14;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =  106.50;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3006;
+    {
+        POINT_X      =  -35.00;
+        POINT_Y      =   92.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4001;
+    {
+        POINT_X      = -318.00;
+        POINT_Y      = -150.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   84.20;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4002;
+    {
+        POINT_X      = -528.50;
+        POINT_Y      = -150.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   84.20;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4003;
+    {
+        POINT_X      = -528.50;
+        POINT_Y      =   63.43;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4004;
+    {
+        POINT_X      = -495.78;
+        POINT_Y      =  125.96;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4005;
+    {
+        POINT_X      = -429.75;
+        POINT_Y      =  143.24;
+        CHAMFER_TYPE =      40;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4006;
+    {
+        POINT_X      = -318.00;
+        POINT_Y      =   92.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+};
+
+CROSS_SECTION_NAME = "UPB320";
+{
+    POINT_NUMBER = 1;
+    {
+        POINT_X      =  592.00;
+        POINT_Y      = -140.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2;
+    {
+        POINT_X      =  582.81;
+        POINT_Y      =   72.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3;
+    {
+        POINT_X      =  574.47;
+        POINT_Y      =   79.65;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4;
+    {
+        POINT_X      =  573.00;
+        POINT_Y      =  113.66;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5;
+    {
+        POINT_X      =  580.65;
+        POINT_Y      =  122.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 6;
+    {
+        POINT_X      =  579.43;
+        POINT_Y      =  150.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 7;
+    {
+        POINT_X      =  568.99;
+        POINT_Y      =  160.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 8;
+    {
+        POINT_X      = -568.99;
+        POINT_Y      =  160.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 9;
+    {
+        POINT_X      = -579.43;
+        POINT_Y      =  150.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 10;
+    {
+        POINT_X      = -580.65;
+        POINT_Y      =  122.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 11;
+    {
+        POINT_X      = -573.00;
+        POINT_Y      =  113.66;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 12;
+    {
+        POINT_X      = -574.47;
+        POINT_Y      =   79.65;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 13;
+    {
+        POINT_X      = -582.81;
+        POINT_Y      =   72.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 14;
+    {
+        POINT_X      = -592.00;
+        POINT_Y      = -140.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 15;
+    {
+        POINT_X      = -600.00;
+        POINT_Y      = -140.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 16;
+    {
+        POINT_X      = -600.00;
+        POINT_Y      = -150.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 17;
+    {
+        POINT_X      = -591.00;
+        POINT_Y      = -160.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 18;
+    {
+        POINT_X      =  590.00;
+        POINT_Y      = -160.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 19;
+    {
+        POINT_X      =  600.00;
+        POINT_Y      = -150.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 20;
+    {
+        POINT_X      =  600.00;
+        POINT_Y      = -140.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1001;
+    {
+        POINT_X      =  538.25;
+        POINT_Y      = -125.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   97.28;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1002;
+    {
+        POINT_X      =  316.75;
+        POINT_Y      = -125.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   97.28;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1003;
+    {
+        POINT_X      =  316.75;
+        POINT_Y      =  119.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   97.28;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1004;
+    {
+        POINT_X      =  488.21;
+        POINT_Y      =  119.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   70.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1005;
+    {
+        POINT_X      =  538.25;
+        POINT_Y      =   33.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2001;
+    {
+        POINT_X      =  255.00;
+        POINT_Y      = -125.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   97.28;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2002;
+    {
+        POINT_X      =   30.00;
+        POINT_Y      = -125.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   97.28;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2003;
+    {
+        POINT_X      =   30.00;
+        POINT_Y      =  119.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   97.28;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2004;
+    {
+        POINT_X      =  255.00;
+        POINT_Y      =  119.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   97.28;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3001;
+    {
+        POINT_X      =  -30.00;
+        POINT_Y      = -125.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   97.28;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3002;
+    {
+        POINT_X      = -255.00;
+        POINT_Y      = -125.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   97.28;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3003;
+    {
+        POINT_X      = -255.00;
+        POINT_Y      =  119.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   97.28;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3004;
+    {
+        POINT_X      =  -30.00;
+        POINT_Y      =  119.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   97.28;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4001;
+    {
+        POINT_X      = -316.75;
+        POINT_Y      = -125.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   97.28;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4002;
+    {
+        POINT_X      = -538.25;
+        POINT_Y      = -125.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   97.28;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4003;
+    {
+        POINT_X      = -538.25;
+        POINT_Y      =   33.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4004;
+    {
+        POINT_X      = -488.21;
+        POINT_Y      =  119.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   70.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4005;
+    {
+        POINT_X      = -316.75;
+        POINT_Y      =  119.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   97.28;
+        CHAMFER_Y    =    0.00;
+    }
+};
+
+CROSS_SECTION_NAME = "UPB265";
+{
+    POINT_NUMBER = 1;
+    {
+        POINT_X      =  595.00;
+        POINT_Y      = -112.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2;
+    {
+        POINT_X      =  590.00;
+        POINT_Y      = -107.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3;
+    {
+        POINT_X      =  581.93;
+        POINT_Y      =   44.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4;
+    {
+        POINT_X      =  573.77;
+        POINT_Y      =   49.21;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5;
+    {
+        POINT_X      =  572.41;
+        POINT_Y      =   89.97;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 6;
+    {
+        POINT_X      =  580.27;
+        POINT_Y      =   94.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 7;
+    {
+        POINT_X      =  579.33;
+        POINT_Y      =  122.51;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 8;
+    {
+        POINT_X      =  569.00;
+        POINT_Y      =  132.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 9;
+    {
+        POINT_X      = -568.99;
+        POINT_Y      =  132.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 10;
+    {
+        POINT_X      = -579.33;
+        POINT_Y      =  122.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 11;
+    {
+        POINT_X      = -580.27;
+        POINT_Y      =   94.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 12;
+    {
+        POINT_X      = -572.41;
+        POINT_Y      =   89.97;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 13;
+    {
+        POINT_X      = -573.77;
+        POINT_Y      =   49.21;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 14;
+    {
+        POINT_X      = -581.93;
+        POINT_Y      =   44.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 15;
+    {
+        POINT_X      = -590.00;
+        POINT_Y      = -107.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 16;
+    {
+        POINT_X      = -595.00;
+        POINT_Y      = -112.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 17;
+    {
+        POINT_X      = -600.00;
+        POINT_Y      = -112.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 18;
+    {
+        POINT_X      = -600.00;
+        POINT_Y      = -122.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 19;
+    {
+        POINT_X      = -590.00;
+        POINT_Y      = -132.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 20;
+    {
+        POINT_X      =  590.00;
+        POINT_Y      = -132.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 21;
+    {
+        POINT_X      =  600.00;
+        POINT_Y      = -122.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 22;
+    {
+        POINT_X      =  600.00;
+        POINT_Y      = -112.50;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1001;
+    {
+        POINT_X      =  539.50;
+        POINT_Y      =  -97.50;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1002;
+    {
+        POINT_X      =  356.50;
+        POINT_Y      =  -97.50;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1003;
+    {
+        POINT_X      =  356.50;
+        POINT_Y      =   89.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1004;
+    {
+        POINT_X      =  539.50;
+        POINT_Y      =   89.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2001;
+    {
+        POINT_X      =  315.50;
+        POINT_Y      =  -97.50;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2002;
+    {
+        POINT_X      =  132.50;
+        POINT_Y      =  -97.50;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2003;
+    {
+        POINT_X      =  132.50;
+        POINT_Y      =   89.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2004;
+    {
+        POINT_X      =  315.50;
+        POINT_Y      =   89.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3001;
+    {
+        POINT_X      =   91.50;
+        POINT_Y      =  -97.50;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3002;
+    {
+        POINT_X      =  -91.50;
+        POINT_Y      =  -97.50;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3003;
+    {
+        POINT_X      =  -91.50;
+        POINT_Y      =   89.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3004;
+    {
+        POINT_X      =   91.50;
+        POINT_Y      =   89.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4001;
+    {
+        POINT_X      = -132.50;
+        POINT_Y      =  -97.50;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4002;
+    {
+        POINT_X      = -315.50;
+        POINT_Y      =  -97.50;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4003;
+    {
+        POINT_X      = -315.50;
+        POINT_Y      =   89.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4004;
+    {
+        POINT_X      = -132.50;
+        POINT_Y      =   89.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5001;
+    {
+        POINT_X      = -356.50;
+        POINT_Y      =  -97.50;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5002;
+    {
+        POINT_X      = -539.50;
+        POINT_Y      =  -97.50;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5003;
+    {
+        POINT_X      = -539.50;
+        POINT_Y      =   89.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5004;
+    {
+        POINT_X      = -356.50;
+        POINT_Y      =   89.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   78.42;
+        CHAMFER_Y    =    0.00;
+    }
+};
+
+CROSS_SECTION_NAME = "UPB220";
+{
+    POINT_NUMBER = 1;
+    {
+        POINT_X      =  593.00;
+        POINT_Y      =  -88.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2;
+    {
+        POINT_X      =  590.00;
+        POINT_Y      =  -85.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3;
+    {
+        POINT_X      =  583.96;
+        POINT_Y      =   22.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4;
+    {
+        POINT_X      =  575.67;
+        POINT_Y      =   27.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5;
+    {
+        POINT_X      =  573.41;
+        POINT_Y      =   67.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 6;
+    {
+        POINT_X      =  581.14;
+        POINT_Y      =   72.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 7;
+    {
+        POINT_X      =  579.56;
+        POINT_Y      =  100.02;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 8;
+    {
+        POINT_X      =  569.00;
+        POINT_Y      =  110.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 9;
+    {
+        POINT_X      = -568.98;
+        POINT_Y      =  110.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 10;
+    {
+        POINT_X      = -579.63;
+        POINT_Y      =  100.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 11;
+    {
+        POINT_X      = -581.14;
+        POINT_Y      =   72.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 12;
+    {
+        POINT_X      = -573.41;
+        POINT_Y      =   67.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 13;
+    {
+        POINT_X      = -575.67;
+        POINT_Y      =   27.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 14;
+    {
+        POINT_X      = -583.96;
+        POINT_Y      =   22.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 15;
+    {
+        POINT_X      = -590.00;
+        POINT_Y      =  -85.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 16;
+    {
+        POINT_X      = -593.00;
+        POINT_Y      =  -88.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 17;
+    {
+        POINT_X      = -600.00;
+        POINT_Y      =  -88.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 18;
+    {
+        POINT_X      = -600.00;
+        POINT_Y      = -100.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 19;
+    {
+        POINT_X      = -590.00;
+        POINT_Y      = -110.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 20;
+    {
+        POINT_X      =  590.00;
+        POINT_Y      = -110.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 21;
+    {
+        POINT_X      =  600.00;
+        POINT_Y      = -100.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 22;
+    {
+        POINT_X      =  600.00;
+        POINT_Y      =  -88.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1001;
+    {
+        POINT_X      =  544.50;
+        POINT_Y      =  -65.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1002;
+    {
+        POINT_X      =  400.50;
+        POINT_Y      =  -65.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1003;
+    {
+        POINT_X      =  400.50;
+        POINT_Y      =   82.63;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1004;
+    {
+        POINT_X      =  544.50;
+        POINT_Y      =   82.63;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2001;
+    {
+        POINT_X      =  355.50;
+        POINT_Y      =  -65.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2002;
+    {
+        POINT_X      =  211.50;
+        POINT_Y      =  -65.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2003;
+    {
+        POINT_X      =  211.50;
+        POINT_Y      =   82.63;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2004;
+    {
+        POINT_X      =  355.50;
+        POINT_Y      =   82.63;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3001;
+    {
+        POINT_X      =  166.50;
+        POINT_Y      =  -65.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3002;
+    {
+        POINT_X      =   22.50;
+        POINT_Y      =  -65.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3003;
+    {
+        POINT_X      =   22.50;
+        POINT_Y      =   82.63;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3004;
+    {
+        POINT_X      =  166.50;
+        POINT_Y      =   82.63;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4001;
+    {
+        POINT_X      =  -22.50;
+        POINT_Y      =  -65.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4002;
+    {
+        POINT_X      = -166.50;
+        POINT_Y      =  -65.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4003;
+    {
+        POINT_X      = -166.50;
+        POINT_Y      =   82.63;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4004;
+    {
+        POINT_X      =  -22.50;
+        POINT_Y      =   82.63;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5001;
+    {
+        POINT_X      = -211.50;
+        POINT_Y      =  -65.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5002;
+    {
+        POINT_X      = -355.50;
+        POINT_Y      =  -65.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5003;
+    {
+        POINT_X      = -355.50;
+        POINT_Y      =   82.63;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5004;
+    {
+        POINT_X      = -211.50;
+        POINT_Y      =   82.63;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 6001;
+    {
+        POINT_X      = -400.50;
+        POINT_Y      =  -65.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 6002;
+    {
+        POINT_X      = -544.50;
+        POINT_Y      =  -65.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 6003;
+    {
+        POINT_X      = -544.50;
+        POINT_Y      =   82.63;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 6004;
+    {
+        POINT_X      = -400.50;
+        POINT_Y      =   82.63;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   60.45;
+        CHAMFER_Y    =    0.00;
+    }
+};
+
+CROSS_SECTION_NAME = "UPB200";
+{
+    POINT_NUMBER = 1;
+    {
+        POINT_X      =  593.00;
+        POINT_Y      =  -78.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2;
+    {
+        POINT_X      =  590.00;
+        POINT_Y      =  -75.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3;
+    {
+        POINT_X      =  584.53;
+        POINT_Y      =   12.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4;
+    {
+        POINT_X      =  576.20;
+        POINT_Y      =   17.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5;
+    {
+        POINT_X      =  573.69;
+        POINT_Y      =   57.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 6;
+    {
+        POINT_X      =  581.39;
+        POINT_Y      =   62.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 7;
+    {
+        POINT_X      =  579.63;
+        POINT_Y      =   90.02;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 8;
+    {
+        POINT_X      =  569.00;
+        POINT_Y      =  100.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 9;
+    {
+        POINT_X      = -568.98;
+        POINT_Y      =  100.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 10;
+    {
+        POINT_X      = -579.63;
+        POINT_Y      =   90.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 11;
+    {
+        POINT_X      = -581.39;
+        POINT_Y      =   62.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 12;
+    {
+        POINT_X      = -573.69;
+        POINT_Y      =   57.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 13;
+    {
+        POINT_X      = -576.20;
+        POINT_Y      =   17.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 14;
+    {
+        POINT_X      = -584.53;
+        POINT_Y      =   12.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 15;
+    {
+        POINT_X      = -590.00;
+        POINT_Y      =  -75.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 16;
+    {
+        POINT_X      = -593.00;
+        POINT_Y      =  -78.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 17;
+    {
+        POINT_X      = -600.00;
+        POINT_Y      =  -78.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 18;
+    {
+        POINT_X      = -600.00;
+        POINT_Y      =  -90.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 19;
+    {
+        POINT_X      = -590.00;
+        POINT_Y      = -100.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 20;
+    {
+        POINT_X      =  590.00;
+        POINT_Y      = -100.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 21;
+    {
+        POINT_X      =  600.00;
+        POINT_Y      =  -90.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 22;
+    {
+        POINT_X      =  600.00;
+        POINT_Y      =  -78.00;
+        CHAMFER_TYPE =       0;
+        CHAMFER_X    =    0.00;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1001;
+    {
+        POINT_X      =  542.50;
+        POINT_Y      =  -75.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1002;
+    {
+        POINT_X      =  402.50;
+        POINT_Y      =  -75.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1003;
+    {
+        POINT_X      =  402.50;
+        POINT_Y      =   71.39;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 1004;
+    {
+        POINT_X      =  542.50;
+        POINT_Y      =   71.39;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2001;
+    {
+        POINT_X      =  353.50;
+        POINT_Y      =  -75.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2002;
+    {
+        POINT_X      =  213.50;
+        POINT_Y      =  -75.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2003;
+    {
+        POINT_X      =  213.50;
+        POINT_Y      =   71.39;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 2004;
+    {
+        POINT_X      =  353.50;
+        POINT_Y      =   71.39;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3001;
+    {
+        POINT_X      =  164.50;
+        POINT_Y      =  -75.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3002;
+    {
+        POINT_X      =   24.50;
+        POINT_Y      =  -75.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3003;
+    {
+        POINT_X      =   24.50;
+        POINT_Y      =   71.39;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 3004;
+    {
+        POINT_X      =  164.50;
+        POINT_Y      =   71.39;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4001;
+    {
+        POINT_X      =  -24.50;
+        POINT_Y      =  -75.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4002;
+    {
+        POINT_X      = -164.50;
+        POINT_Y      =  -75.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4003;
+    {
+        POINT_X      = -164.50;
+        POINT_Y      =   71.39;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 4004;
+    {
+        POINT_X      =  -24.50;
+        POINT_Y      =   71.39;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5001;
+    {
+        POINT_X      = -213.50;
+        POINT_Y      =  -75.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5002;
+    {
+        POINT_X      = -353.50;
+        POINT_Y      =  -75.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5003;
+    {
+        POINT_X      = -353.50;
+        POINT_Y      =   71.39;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 5004;
+    {
+        POINT_X      = -213.50;
+        POINT_Y      =   71.39;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 6001;
+    {
+        POINT_X      = -402.50;
+        POINT_Y      =  -75.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 6002;
+    {
+        POINT_X      = -542.50;
+        POINT_Y      =  -75.00;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 6003;
+    {
+        POINT_X      = -542.50;
+        POINT_Y      =   71.39;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+    POINT_NUMBER = 6004;
+    {
+        POINT_X      = -402.50;
+        POINT_Y      =   71.39;
+        CHAMFER_TYPE =      20;
+        CHAMFER_X    =   58.63;
+        CHAMFER_Y    =    0.00;
+    }
+};
+
+PROPERTY_NAME = "CRH_COMPANY";
+{
+    PROFILE_TYPE  = 998;
+    SYMBOL        = "";
+    LABEL_STRING  = "Company";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 10;
+};
+
+PROPERTY_NAME = "CRH_PROFILE_TYPE";
+{
+    PROFILE_TYPE  = 998;
+    SYMBOL        = "";
+    LABEL_STRING  = "Profile type";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 9;
+};
+
+PROPERTY_NAME = "CRH_ELEMENT_TYPE";
+{
+    PROFILE_TYPE  = 998;
+    SYMBOL        = "";
+    LABEL_STRING  = "Element type";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 8;
+};
+
+PROPERTY_NAME = "CRH_CONCRETE";
+{
+    PROFILE_TYPE  = 998;
+    SYMBOL        = "";
+    LABEL_STRING  = "Concrete";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 7;
+};
+
+PROPERTY_NAME = "CRH_CALC_WEIGHT";
+{
+    PROFILE_TYPE  = 998;
+    SYMBOL        = "";
+    LABEL_STRING  = "Calculation weight";
+    QUANTITY_TYPE = 120;
+    ORDER_NUMBER  = 6;
+};
+
+PROPERTY_NAME = "NORM";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Norm";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 7;
+};
+
+PROPERTY_NAME = "PREIS";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "�/100KG";
+    LABEL_STRING  = "Euro";
+    QUANTITY_TYPE = -2;
+    ORDER_NUMBER  = 6;
+};
+
+PROPERTY_NAME = "HANDELSGEWICHT";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Handelsgewicht";
+    QUANTITY_TYPE = 102;
+    ORDER_NUMBER  = 5;
+};
+
+PROPERTY_NAME = "W1";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "w1";
+    LABEL_STRING  = "w1";
+    QUANTITY_TYPE = 10;
+    ORDER_NUMBER  = 4;
+};
+
+PROPERTY_NAME = "W2";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "w2";
+    LABEL_STRING  = "w2";
+    QUANTITY_TYPE = 10;
+    ORDER_NUMBER  = 3;
+};
+
+PROPERTY_NAME = "W3";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "w3";
+    LABEL_STRING  = "w3";
+    QUANTITY_TYPE = 10;
+    ORDER_NUMBER  = 2;
+};
+
+PROPERTY_NAME = "D1";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "d1";
+    LABEL_STRING  = "d1";
+    QUANTITY_TYPE = 10;
+    ORDER_NUMBER  = 1;
+};
+
+PROPERTY_NAME = "RLSD_YIELD";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Yield";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 1;
+};
+
+PROPERTY_NAME = "D2";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "d2";
+    LABEL_STRING  = "d2";
+    QUANTITY_TYPE = 10;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "DESIGN_GROUP";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Design group ";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "DESIGN_ORDER";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Design order";
+    QUANTITY_TYPE = -2;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "FACTORY_LIST";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "FactoryList";
+    LABEL_STRING  = "List of factories";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "IS_RECOMMENDED_SIZE";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "IsRecommended";
+    LABEL_STRING  = "Is recommended size";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "IS_STOCK_SIZE";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "IsStockSize";
+    LABEL_STRING  = "Is stock size";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "MAX_TWIN_SEARCH_DIST";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Twin Profile Effect Distance";
+    QUANTITY_TYPE = 10;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "METRIC_EQ_NAME";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Metric Equivalent Name";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "PROFILE_FACTORY";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "Factory";
+    LABEL_STRING  = "Profile Factory";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "RAINA";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "Rainaleveys";
+    LABEL_STRING  = "Rainaleveys";
+    QUANTITY_TYPE = 10;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "RAINA_T";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "Rainapaksuus";
+    LABEL_STRING  = "Rainapaksuus";
+    QUANTITY_TYPE = 10;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "RLSD_C_I_C";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Corus item code";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "RLSD_C_W";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Cover width";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "RLSD_DENS";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Density";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "RLSD_GAUGE";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Gauge";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "RLSD_MAX_SHTS";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Max. No. sheets in bundle";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "RLSD_M_SPEC";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Material specification";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "RLSD_PAINT";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Paint splash code";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "SAP_DESCRIPTION";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "SAP";
+    LABEL_STRING  = "SAP Description";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = 0;
+};
+
+PROPERTY_NAME = "HISTORICAL_PROFILE";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Historical Profile";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = -1;
+};
+
+PROPERTY_NAME = "PROFILE_SUBGROUP";
+{
+    PROFILE_TYPE  = -1;
+    SYMBOL        = "";
+    LABEL_STRING  = "Profile Subgroup";
+    QUANTITY_TYPE = -1;
+    ORDER_NUMBER  = -2;
+};
+
