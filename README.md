@@ -13,7 +13,7 @@ How to use -
 5) Open the hcsCalculatorTeklaExcel.sln file using Visual Studio if you want to be able to eddit the code and run it with Visual Studio.
 6) Open the /hcsCalculatorTeklaExcel/bin/Debug/hcsCalculatorTeklaExcel.exe file to use the application as standalone (Works only with Tekla Structures 2020).
 
-Youtube link - TBC..
+Youtube link - https://youtu.be/dHPX96F1IkU
 
 Known limitations -
 
